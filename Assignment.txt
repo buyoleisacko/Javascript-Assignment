@@ -1,0 +1,6 @@
+Wake up
+Brush my teeth
+Take shower
+Dress
+Go for breakfast
+https://jsbin.com/qedeguhopi/edit?js,console
